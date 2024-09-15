@@ -7,6 +7,8 @@ __pycache__/
 *.so
 
 # Distribution / packaging
+dataset/
+vibration_data.csv
 .Python
 build/
 develop-eggs/
